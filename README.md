@@ -27,9 +27,6 @@ Deployed application: https://weather-dashboard-swart-tau.vercel.app/
 Screenshots: 
 The following image shows a snapshot of the application:
 
+![1000012261](https://github.com/user-attachments/assets/00db4c40-f285-46a3-b0b8-f86418ea80aa)
 
-
-
-
-
-
+![1000012267](https://github.com/user-attachments/assets/2f388b07-d345-4387-bf34-a7212846fbdc)
