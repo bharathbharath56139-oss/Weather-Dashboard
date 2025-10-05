@@ -1,4 +1,4 @@
-is Dashboard (Server-Side APIs)
+WHETHER DASHBOARD (Server-Side APIs)
 
 Table of Contents
 Description
