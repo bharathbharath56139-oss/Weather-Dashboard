@@ -29,6 +29,6 @@ The following image shows a snapshot of the applapplication :
 ![1000013249](https://github.com/user-attachments/assets/6059559b-cc7c-4692-9d68-dcb9aaa9a375)
 
 ![1000013250](https://github.com/user-attachments/assets/207e0c7f-c7e9-40f5-a0e4-40322a379714)
-tachmentsasr-attachmentsass
+
 
 
