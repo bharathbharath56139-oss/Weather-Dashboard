@@ -21,7 +21,7 @@ Clean simple UI with graphical representation of weather
 Moment.js is used to convert unix timestamp to MM/DD/YYYY format
 Background color of UV index will adjust based on World Health Organization color scale
 Usage:
-Enter the name of the city or city name, state code and country code you wish to search for in the search input field.  You can click on cities in the history section to obtain their weather data again . For country codes visit: https://github.com/bharathbharath56139-oss/Weather-Dashboard.git
+Enter the name of the city or city name, state code and country code you wish to search for in the search input field.  You can click on cities in the history section to obtain their weather data again. 
 Links:
 Deployed application: https://weather-dashboard-swart-tau.vercel.app/
 Screenshots: 
@@ -30,4 +30,5 @@ The following image shows a snapshot of the applapplication :
 
 ![1000013250](https://github.com/user-attachments/assets/207e0c7f-c7e9-40f5-a0e4-40322a379714)
 tachmentsasr-attachmentsass
+
 
